@@ -1,0 +1,3 @@
+{
+  "cmd": ". ~/init/ruby 2.2.5 && bundle install && bundle exec rake"
+}
